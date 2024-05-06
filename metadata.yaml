@@ -1,0 +1,38 @@
+_repo: Research-methods-in-ecology_73420
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Clements, Frederic E. (Frederic Edward)
+    aliases:
+    - Clements, Frederic Edward
+    - Clements, F. E. (Frederic Edward)
+    - Clements, Frederick Edward
+    birthdate: 1874
+    deathdate: 1945
+    gutenberg_agent_id: '56803'
+    url: http://www.gutenberg.org/2009/agents/56803
+    wikipedia: https://en.wikipedia.org/wiki/Frederic_Clements
+description: ''
+gutenberg_issued: '2024-04-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73420'
+  lccn: '05025414'
+language: en
+pgterms:marc904: https://archive.org/details/b31351608/page/n7/mode/2up
+pgterms:marc905: 20221027164104clements
+pgterms:marc906: '1905'
+pgterms:marc907: US
+production_note: Richard Tonsing and The Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aLincoln :$bUniversity Publishing Co, $c1905.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Plant ecology'
+- !lcsh 'Plant ecology -- Methodology'
+- !lcc 'QK'
+- GITenberg
+title: Research methods in ecology
+url: http://www.gutenberg.org/ebooks/73420
